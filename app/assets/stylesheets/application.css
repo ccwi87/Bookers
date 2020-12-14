@@ -18,3 +18,31 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  margin: 33px;
+  font-size: 15px;
+}
+
+a {
+  color: gray;
+}
+
+.top-text {
+  margin: 20px;
+}
+
+.table {
+  text-align: center;
+   font-weight: bold;
+}
+
+.show {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.notice {
+  margin: 20px;
+  color: limegreen;
+}
